@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>EL SONIDO SIN RUIDO</title>
+
+    
+    <link rel="stylesheet" href="main.css" type="text/css" media="screen">
+    
+    
+    <script src="main.js" defer></script>
+</head>
+<body>
+    <div class="contenedor">
+        <h1>EL SONIDO SIN RUIDO</h1>
+
+        <p>en lugar de usar bocinas ruidosas para anunciar algo en una comunidad, se puede optar por intervenciones artísticas como música suave en espacios públicos o sonidos naturales amplificados, promoviendo una cultura del respeto sonoro. </p>
+
+        <img src="https://media.gettyimages.com/id/200402852-006/es/foto/man-with-finger-on-lips-side-view.jpg?s=612x612&w=gi&k=20&c=_Mq5GMkyOKRJfSRv71Yhv01CshrFkWaWJ-wU4Olc8ZU=" alt="Un hermoso unicornio">
+        
+        <p>
+            
+        </p>
+
+        <a href="más-info.html">Descubre más</a>
+    </div>
+</body>
+</html>
